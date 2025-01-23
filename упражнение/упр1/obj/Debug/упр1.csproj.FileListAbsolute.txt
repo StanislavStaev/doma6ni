@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\упражнение\упр1\bin\Debug\упр1.exe.config
+D:\Users\Станислав\Desktop\упражнение\упр1\bin\Debug\упр1.exe
+D:\Users\Станислав\Desktop\упражнение\упр1\bin\Debug\упр1.pdb
+D:\Users\Станислав\Desktop\упражнение\упр1\obj\Debug\упр1.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\упражнение\упр1\obj\Debug\упр1.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\упражнение\упр1\obj\Debug\упр1.exe
+D:\Users\Станислав\Desktop\упражнение\упр1\obj\Debug\упр1.pdb

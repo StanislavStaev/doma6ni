@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\упражнение\упражнение\bin\Debug\упражнение.exe.config
+D:\Users\Станислав\Desktop\упражнение\упражнение\bin\Debug\упражнение.exe
+D:\Users\Станислав\Desktop\упражнение\упражнение\bin\Debug\упражнение.pdb
+D:\Users\Станислав\Desktop\упражнение\упражнение\obj\Debug\упражнение.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\упражнение\упражнение\obj\Debug\упражнение.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\упражнение\упражнение\obj\Debug\упражнение.exe
+D:\Users\Станислав\Desktop\упражнение\упражнение\obj\Debug\упражнение.pdb
