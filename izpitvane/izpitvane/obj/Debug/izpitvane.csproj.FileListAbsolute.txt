@@ -1,0 +1,7 @@
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\bin\Debug\izpitvane.exe.config
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\bin\Debug\izpitvane.exe
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\bin\Debug\izpitvane.pdb
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\obj\Debug\izpitvane.csproj.AssemblyReference.cache
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\obj\Debug\izpitvane.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\obj\Debug\izpitvane.exe
+C:\Users\Станислав\source\repos\izpitvane\izpitvane\obj\Debug\izpitvane.pdb
